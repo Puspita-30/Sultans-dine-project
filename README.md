@@ -1,13 +1,12 @@
 🌟 Sultan's Dine Catering Website
+
 👨‍💻 Developer Info
 Name: Puspita Halder Isha
-
 ID: 242-16-030
-
 University: Daffodil International University
 
 🌐 Live Preview
-➡️ Click here to view the live site
+➡️ Click here to view the live site:(242-16-030-puspita-halder-isha.netlify.app)
 
 📜 Project Overview
 Welcome to the official website for Sultan's Dine Catering Services!
