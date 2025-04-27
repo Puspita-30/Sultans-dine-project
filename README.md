@@ -7,7 +7,9 @@ University: Daffodil International University
 
 🌐 Live Preview
 ## 🌐 Live Preview
-➡️ [Click here to view the live site](242-16-030-puspita-halder-isha.netlify.app)
+➡️ [Click here to view the live site](## 🌐 Live Preview
+➡️ [Click here to view the live site](https://sultansdine.vercel.app)
+)
 
 
 📜 Project Overview
